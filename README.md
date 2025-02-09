@@ -32,7 +32,7 @@ Visit the live website: [GUB Alumni Network](https://gubsmart-alumni.netlify.app
 ---
 ## Screenshot
 
-![screencapture-gubsmart-alumni-netlify-app-2025-02-09-18_51_07](https://github.com/user-attachments/assets/4d74a6f5-3e60-434b-a312-e72cb893f179)
+![screencapture-gubsmart-alumni-netlify-app-2025-02-09-18_51_07](https://github.com/user-attachments/assets/92f79646-10bc-409c-8ce8-c74ca0eef8fc)
 
 ---
 ## Design Credit
